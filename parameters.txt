@@ -1,0 +1,6 @@
+gridWidth	60
+gridHeight	60
+learningRate	0.9
+maxIterations	700
+trainFile	training.txt
+testFile	test.txt
